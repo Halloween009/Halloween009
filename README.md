@@ -3,6 +3,8 @@
 
 * My name is Pak Sergei.
 * I am 28 years old.
+* I live in South Korea
+* Own F-4 Visa, no problem with employment.
 * Tryin' mah best
 
 <details>
@@ -16,5 +18,19 @@
 - 🌱 I’m currently learning Python
 </details>
 
+## My stack is:
+* Front end:
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwindcss,webpack)
+* Back end:
+
+![My Skills](https://skillicons.dev/icons?i=java,cpp)
+* Database:
+
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)
+
+* Other:
+
+![My Skills](https://skillicons.dev/icons?i=qt,git,github,postman,figma,npm,vscode,vite,vercel)
 
 
