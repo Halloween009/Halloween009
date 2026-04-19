@@ -31,6 +31,6 @@
 
 * Other:
 
-![My Skills](https://skillicons.dev/icons?i=qt,git,github,postman,figma,npm,vscode,vite,vercel)
+![My Skills](https://skillicons.dev/icons?i=qt,git,github,postman,figma,npm,vscode,vite,vercel,firebase)
 
 
